@@ -1,0 +1,1 @@
+Chưa có gì về lịch sử hay địa lý cả
