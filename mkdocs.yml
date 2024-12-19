@@ -1,11 +1,24 @@
-site_name: Tôi luyện lịch sử - địa lý
+site_name: Tu luyện lịch sử
 site_description: Khá nhiều thứ liên quan đến Lịch sử - địa lý trong nước lẫn thế giới.
 site_author: duykhanh471
 
 nav:
-  - 'Trang chủ':
-    - 'Chưa làm': index.md
-  
+  - 'Trang chủ': index.md
+  - 'Lịch sử Việt Nam':
+    - 'Lộ trình lịch sử': 'qua-trinh-lich-su-viet-nam.md'
+  - 'Lịch sử thế giới':
+    - 'Châu Á': 'chau-a.md'
+    - 'Châu Âu': 'chau-au.md'
+    - 'Châu Phi': 'chau-mi.md'
+    - 'Châu Mĩ': 'chau-my.md'
+  - 'Lịch sử cổ đại':
+    - 'Ai Cập cổ đại': 'ai-cap-co-dai.md'
+    - 'Hy Lạp cổ đại': 'hy-lap-co-dai.md'
+    - 'Persia cổ đại': 'persia-co-dai.md'
+    - 'Rome': 'rome.md'
+    - 'Thời trung cổ': 'lich-su-trung-co.md'
+  - 'Tài nguyên học': 'tai-nguyen-hoc.md'
+
 theme:
   palette:
     # Palette toggle for light mode
