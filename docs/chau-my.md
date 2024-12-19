@@ -1,2 +1,0 @@
-# lich-su/chau-my
-

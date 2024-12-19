@@ -1,3 +1,10 @@
+# Tài nguyên học lịch sử
+
+Chưa làm
+
+
+<!-- 
+
 Lấy cấu trúc phân chia các mục từ [r/History](https://www.reddit.com/r/history/wiki/recommendedlist/)
 
 r/History Recommended Reading List
@@ -60,4 +67,6 @@ Young Historians List
 Booklist for young readers
 Podcasts, Documentaries, and Video Series
 Previous AMAs done in r/History
-r/AskHistorians book list
+r/AskHistorians book list 
+
+-->

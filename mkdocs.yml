@@ -9,8 +9,8 @@ nav:
   - 'Lịch sử thế giới':
     - 'Châu Á': 'chau-a.md'
     - 'Châu Âu': 'chau-au.md'
-    - 'Châu Phi': 'chau-mi.md'
-    - 'Châu Mĩ': 'chau-my.md'
+    - 'Châu Phi': 'chau-phi.md'
+    - 'Châu Mĩ': 'chau-mi.md'
   - 'Lịch sử cổ đại':
     - 'Ai Cập cổ đại': 'ai-cap-co-dai.md'
     - 'Hy Lạp cổ đại': 'hy-lap-co-dai.md'
@@ -48,8 +48,28 @@ theme:
     - search.suggest
   name: material
 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
 plugins:
   - search
+  - open-in-new-tab
 
 extra:
   generator: false
